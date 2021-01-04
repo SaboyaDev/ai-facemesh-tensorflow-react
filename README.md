@@ -19,7 +19,7 @@
 ### Dependencies:
 
 - @tensorflow/tfjs
-- @tensorflow-models/facemesh
+- @tensorflow-models/face-landmarks-detection
 - react-webcam
 
 ```
@@ -27,9 +27,15 @@ npm i @tensorflow/tfjs
 ```
 
 ```
-npm i @tensorflow-models/facemesh
+npm i @tensorflow-models/face-landmarks-detection
 ```
 
 ```
 npm i react-webcam
+```
+
+## Run:
+
+```
+npm run start
 ```
